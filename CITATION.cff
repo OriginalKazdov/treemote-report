@@ -2,12 +2,12 @@ cff-version: 1.2.0
 title: "The Compositional Depth Decay is a Dispatch Tax"
 message: "If you reference this work, please cite as below."
 type: "report"
-version: "0.1"
+version: "v0.1.0"
 authors:
   - family-names: "Dovzak"
     given-names: "Juan Cruz"
     email: "juandovzak@gmail.com"
-date-released: "2026-04-24"
+date-released: "2026-04-25"
 url: "https://github.com/OriginalKazdov/treemote-report"
 abstract: >-
   Compositional depth decay in neural networks behaves like an
