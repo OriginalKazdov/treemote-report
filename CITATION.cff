@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "The Compositional Depth Decay is a Dispatch Tax"
+message: "If you reference this work, please cite as below."
+type: "report"
+version: "0.1"
+authors:
+  - family-names: "Dovzak"
+    given-names: "Juan Cruz"
+    email: "juandovzak@gmail.com"
+date-released: "2026-04-24"
+url: "https://github.com/jcdovzak/treemote-report"
+abstract: >-
+  Compositional depth decay in neural networks behaves like an
+  exponential dispatch tax — a multiplicative cost per depth step
+  on out-of-distribution composition. A parse-given tree-recursive
+  evaluator with a shared typed-bilinear cell (TreeMoTE) eliminates
+  this decay across modular RPN, Boolean RPN, and infix arithmetic
+  task families, while a same-structure control with a generic MLP
+  cell does not. The report covers a seven-gate validation battery
+  including cell audits, shape transfer, parse corruption, and
+  multi-seed checks.
+keywords:
+  - compositional generalization
+  - depth extrapolation
+  - tree-recursive networks
+  - bilinear operators
+  - structured reasoning
+  - parse-given evaluation
+license: "Other"
+license-url: "https://github.com/jcdovzak/treemote-report/blob/main/LICENSE"
