@@ -8,7 +8,7 @@ authors:
     given-names: "Juan Cruz"
     email: "juandovzak@gmail.com"
 date-released: "2026-04-24"
-url: "https://github.com/jcdovzak/treemote-report"
+url: "https://github.com/OriginalKazdov/treemote-report"
 abstract: >-
   Compositional depth decay in neural networks behaves like an
   exponential dispatch tax — a multiplicative cost per depth step
@@ -27,4 +27,4 @@ keywords:
   - structured reasoning
   - parse-given evaluation
 license: "Other"
-license-url: "https://github.com/jcdovzak/treemote-report/blob/main/LICENSE"
+license-url: "https://github.com/OriginalKazdov/treemote-report/blob/main/LICENSE"
